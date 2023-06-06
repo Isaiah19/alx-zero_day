@@ -1,1 +1,1 @@
-My new git project
+My new git project updated
